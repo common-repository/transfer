@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: transfer 0.1\n"
+"POT-Creation-Date: 2008-12-12 11:57+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Edgar Kummer <edgar.kummer@aperto.de>\n"
+"Language-Team: Edgar Kummer <wordpress@aperto.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: transfer.php:97
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: transfer.php:108
+msgid "Transfer Settings"
+msgstr "Transfer Einstellungen"
+
+#: transfer.php:115
+msgid "Transfer-Server URL:"
+msgstr "Transfer-Server URL:"
+
+#: transfer.php:119
+msgid "User:"
+msgstr "Benutzer:"
+
+#: transfer.php:123
+msgid "Password:"
+msgstr "Passwort:"
+
+#: transfer.php:127
+msgid "Instant Publish:"
+msgstr "Sofort publizieren:"
+
+#: transfer.php:133
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: transfer.php:152
+msgid "Transfer to"
+msgstr "Übertragen zum"
+
+#: transfer.php:152
+msgid "external WordPress"
+msgstr "externen WordPress"
+

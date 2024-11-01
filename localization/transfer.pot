@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: transfer\n"
+"POT-Creation-Date: 2008-12-12 11:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: transfer.php:97
+msgid "Settings saved."
+msgstr ""
+
+#: transfer.php:108
+msgid "Transfer Settings"
+msgstr ""
+
+#: transfer.php:115
+msgid "Transfer-Server URL:"
+msgstr ""
+
+#: transfer.php:119
+msgid "User:"
+msgstr ""
+
+#: transfer.php:123
+msgid "Password:"
+msgstr ""
+
+#: transfer.php:127
+msgid "Instant Publish:"
+msgstr ""
+
+#: transfer.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: transfer.php:152
+msgid "Transfer to"
+msgstr ""
+
+#: transfer.php:152
+msgid "external WordPress"
+msgstr ""
